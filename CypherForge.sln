@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CypherForge", "CypherForge\CypherForge.csproj", "{B3D28387-EB5B-4B1D-B022-688B805936B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{6513FE8B-6440-4BE0-916D-15BFBB8C173F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{35213FAE-7DBE-46C1-8026-617C7E992369}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3D28387-EB5B-4B1D-B022-688B805936B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3D28387-EB5B-4B1D-B022-688B805936B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3D28387-EB5B-4B1D-B022-688B805936B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3D28387-EB5B-4B1D-B022-688B805936B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6513FE8B-6440-4BE0-916D-15BFBB8C173F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6513FE8B-6440-4BE0-916D-15BFBB8C173F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6513FE8B-6440-4BE0-916D-15BFBB8C173F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6513FE8B-6440-4BE0-916D-15BFBB8C173F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35213FAE-7DBE-46C1-8026-617C7E992369}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35213FAE-7DBE-46C1-8026-617C7E992369}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35213FAE-7DBE-46C1-8026-617C7E992369}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35213FAE-7DBE-46C1-8026-617C7E992369}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
